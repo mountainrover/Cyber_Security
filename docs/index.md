@@ -1,28 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to my GitHub Pages on Cyber Security 
 
-You can use the [editor on GitHub](https://github.com/mountainrover/Cyber_Security/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### recon ng
 
-### Markdown
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
 ```markdown
 
@@ -31,13 +11,13 @@ Author : Deepak C Varghese
 Tool   : **recon -ng**
 OS     : Kali
 Type   : Reconnaissance
-URL    :[Link](https://tools.kali.org/information-gathering/recon-ng)
+URL    :(https://tools.kali.org/information-gathering/recon-ng)
 Module :hackertarget
 //
 
 
 
-root@kali:~# `recon-ng`
+root@kali:~# recon-ng
 [*] Version check disabled.
 
     _/_/_/    _/_/_/_/    _/_/_/    _/_/_/    _/      _/            _/      _/    _/_/_/
