@@ -1,5 +1,5 @@
-# Welcome to my Cyber Security Archives by Deepak C Varghese
-
+# Welcome to the Cyber Security Archives 
+## by Deepak C Varghese
 
 1. Reconnaissance using recon ng
 2. Port Scanning using nmap
