@@ -31,7 +31,7 @@ Author : Deepak C Varghese
 Tool   : **recon -ng**
 OS     : Kali
 Type   : Reconnaissance
-URL    :[https://tools.kali.org/information-gathering/recon-ng]
+URL    :[Link](https://tools.kali.org/information-gathering/recon-ng)
 Module :hackertarget
 //
 
