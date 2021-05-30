@@ -6,8 +6,6 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
 ```markdown
 Syntax highlighted code block
 
@@ -30,16 +28,16 @@ Syntax highlighted code block
 
 //
 Author : Deepak C Varghese
-Tool   : recon -ng
+Tool   : **recon -ng**
 OS     : Kali
 Type   : Reconnaissance
-URL    :https://tools.kali.org/information-gathering/recon-ng
+URL    :[https://tools.kali.org/information-gathering/recon-ng]
 Module :hackertarget
 //
 
 
-root@kali:~# 
-root@kali:~# recon-ng
+
+root@kali:~# `recon-ng`
 [*] Version check disabled.
 
     _/_/_/    _/_/_/_/    _/_/_/    _/_/_/    _/      _/            _/      _/    _/_/_/
