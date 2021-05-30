@@ -5,7 +5,7 @@
 2. Port Scanning using nmap
 
 ```markdown
-_Kindly click on View on Github link for detailed code_
+_Kindly click on 'View on Github' link for detailed code_
 ```
 
 
