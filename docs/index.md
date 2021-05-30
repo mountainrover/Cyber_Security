@@ -1,7 +1,15 @@
 ## Welcome to my GitHub Pages on Cyber Security 
 
 
-### recon ng
+1. Reconnaissance using recon ng
+2. Port Scanning using nmap
+
+```markdown
+_Kindly click on View on Github link for detailed code_
+```
+
+
+###Steps for reconnaissance using recon ng
 
 
 ```markdown
