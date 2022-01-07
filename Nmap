@@ -1,0 +1,73 @@
+NMAP COMMANDS
+________________________
+
+
+sudo nmap restaurant-guru.in
+
+Syn Scan
+________
+sudo nmap -sS 172.105.48.154
+
+UDP Scan
+_________
+sudo nmap -sU 172.105.48.154
+
+XMAS Scan
+_________
+sudo nmap -sX 172.105.48.154
+
+NULL Scan
+__________
+sudo nmap -sN 172.105.48.154
+
+OS Scan
+_______
+sudo nmap -O 172.105.48.154
+
+Verbose
+_________
+sudo nmap --verbose 172.105.48.154
+
+Version info
+____________
+sudo nmap -sV 172.105.48.154
+
+Ping Sweep Scan
+_______________
+sudo nmap -sP 172.105.48.154
+
+ICMP Scan
+__________
+sudo nmap -sn 172.105.48.154
+
+TCP Scan
+_________
+sudo nmap -sT 172.105.48.154
+
+ACK Scan
+_________
+sudo nmap -sA 172.105.48.154
+
+FIN Scan
+________
+sudo nmap -sF 172.105.48.154
+
+Script Scan
+___________
+sudo nmap -sC 172.105.48.154
+
+Full port Scan
+______________
+sudo nmap -p- 172.105.48.154
+
+Selective port range Scan
+_________________________
+sudo nmap -p 1-3344 172.105.48.154
+
+Timing template
+_______________
+sudo nmap -sU -T5 172.105.48.154
+sudo nmap -sU -T4 172.105.48.154
+sudo nmap -sU -T3 172.105.48.154
+sudo nmap -sU -T2 172.105.48.154
+
